@@ -1,0 +1,13 @@
+{
+  "name": "angular-webpack",
+  "author": "Varun Kruthiventi",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "webpack",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.2.2",
+    "webpack": "1.13.2"
+  }
+}
