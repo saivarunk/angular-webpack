@@ -20,7 +20,7 @@ Install the dependencies, build and start the server.
 $ cd angular-webpack
 $ npm install
 $ npm run build
-$ node start
+$ npm start
 ```
 License
 ----
