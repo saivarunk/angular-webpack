@@ -52,10 +52,6 @@
 
 	var app = angular.module('demoApp',[]);
 
-	app.config(
-	    // config angular app
-	);
-
 	// import controllers, services, custom directives, constants here
 
 	__webpack_require__(2);
